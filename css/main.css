@@ -1,0 +1,65 @@
+.navbar  {
+    background-color: #660000;
+    padding: 0;
+}
+
+.container-fluid {
+    padding: .8em 0;
+    font-size: .7em;
+}
+
+.menu {
+    padding: 0;
+    text-align: center;
+    color: #660000;
+}
+
+.menu a {
+    color: #8A0B46;
+    font-weight: bold;
+    background: #D7D7D7;
+}
+
+.list-group-item {
+    padding: .7em .2em;
+    border: none;
+    background: none;
+}
+
+.cope {
+    border-top: solid .3em #660000;
+}
+
+.content {
+    margin: 0;
+}
+
+.table .thead-light th{
+    text-align: center;
+    padding: .2em;
+    width: 33%;
+}
+
+.anuarios {
+    text-align: center;
+}
+
+.anuarios img {
+    width: 60%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.books-markee div, .books-recomend div {
+    padding: .8em .2em;
+}
+
+.books-markee img {
+    width: 100%;
+}
+
+.form-control {
+    font-size: 1em;
+}
