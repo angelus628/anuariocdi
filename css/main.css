@@ -5,7 +5,7 @@
 
 .container-fluid {
     padding: .8em 0;
-    font-size: .7em;
+    font-size: .9em;
 }
 
 .menu {
@@ -62,4 +62,8 @@ ul {
 
 .form-control {
     font-size: 1em;
+}
+
+.map-obs img {
+    width: 100%;
 }
