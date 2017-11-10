@@ -64,8 +64,87 @@
         </tr>
         <tr>
             <td class="map-obs">
+                <table class="table table-sm borderless" border="0">
+                  <tr>
+                    <td class="font-weight-bold" rowspan="22"><div class="rotate-90">organizaciones internacionales</div></td>
+                    <td class="united-nations-color" rowspan="6"><ul><li></li></ul></td>
+                    <td class="font-weight-bold" rowspan="6">naciones unidas</td>
+                    <td class="arrow united-nations-color" rowspan="6">&rarr;</td>
+                    <td>asamblea general de las naciones unidas</td>
+                  </tr>
+                  <tr>
+                    <td>conferencia de las naciones unidas sobre comercio y desarrollo UNCTAD</td>
+                  </tr>
+                  <tr>
+                    <td>consejo de seguridad de las naciones unidas</td>
+                  </tr>
+                  <tr>
+                    <td>consejo economico y social de las naciones unidas ECOSOC</td>
+                  </tr>
+                  <tr>
+                    <td>comisión de derecho internacional</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="regional-organizations" rowspan="12"><ul><li></li></ul></td>
+                    <td class="font-weight-bold" rowspan="12">organizaciones regionales y<br>de integración latinoamericana</td>
+                    <td class="arrow regional-organizations" rowspan="12">&rarr;</td>
+                    <td>organización de los estados americanos - asamblea general</td>
+                  </tr>
+                  <tr>
+                    <td>organización de los estados americanos - oficina de derecho internacional</td>
+                  </tr>
+                  <tr>
+                    <td>organización de los estados americanos - consejo permanente</td>
+                  </tr>
+                  <tr>
+                    <td>organización de los estados americanos - comité jurídico interamericano</td>
+                  </tr>
+                  <tr>
+                    <td>organización de los estados americanos - comité interamericano contra el terrorismo SICTE</td>
+                  </tr>
+                  <tr>
+                    <td>comunidad andina - el consejo andino de misnistros de relaciones exteriores</td>
+                  </tr>
+                  <tr>
+                    <td>comunidad andina - la comisión de la comunidad andina</td>
+                  </tr>
+                  <tr>
+                    <td>comunidad andina - la secretaría general de la comunidad andina</td>
+                  </tr>
+                  <tr>
+                    <td>comunidad andina - tribunal de justicia</td>
+                  </tr>
+                  <tr>
+                    <td>comisión interamericana de derechos humanos</td>
+                  </tr>
+                  <tr>
+                    <td>corte interamericana de derechos humanos</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="international-rights" rowspan="4"><ul><li></li></ul></td>
+                    <td class="font-weight-bold" rowspan="4">derecho internacional privado y<br>derecho internacional económico </td>
+                    <td class="arrow international-rights" rowspan="4">&rarr;</td>
+                    <td>conferencia de derecho internacional privado de la haya</td>
+                  </tr>
+                  <tr>
+                    <td>organización para la cooperación y el desarrollo económicos OCDE</td>
+                  </tr>
+                  <tr>
+                    <td>organización mundial del comercio OMC</td>
+                  </tr>
+                  <tr>
+                    <td>organización internacional del trabajao OIT</td>
+                  </tr>
+                </table>
                 <!--<img src="img/observatorio.png" width="1000" height="1140" alt="Mapa del observatorio" longdesc="observatorio.png" />-->
-                <img src="img/observatorio.png" alt="Mapa del observatorio" longdesc="observatorio.png" />
+                <!--<img src="img/observatorio.png" usemap="#observatory" alt="Mapa del observatorio" longdesc="observatorio.png" />-->
+
             </td>
         </tr>
     </tbody>

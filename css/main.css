@@ -67,3 +67,51 @@ ul {
 .map-obs img {
     width: 100%;
 }
+
+.borderless td, .borderless th {
+    text-align: left;
+    border: none;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+
+.arrow {
+    font-size: 10em;
+}
+
+.rotate-90 {
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    background-color: #660000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.font-weight-bold {
+    font-size: 1.5em;
+}
+
+.map-obs table td ul li {
+    list-style-type: square;
+    font-size: 6em; 
+}
+
+.united-nations-color {
+    color: #EBFF00;
+}
+
+.regional-organizations{
+    color: #F7DC00;
+}
+
+.international-rights {
+    color: #F7B300;
+}
