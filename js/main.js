@@ -18,3 +18,10 @@ $('#observatory').on('click', function(e){
         $('#content-variable').html(data);
     });
 });
+
+$('#anuaries').on('click', function(e){
+    e.preventDefault();
+    $.get('pages/anuaries.php', function(data){
+        $('#content-variable').html(data);
+    });
+});

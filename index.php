@@ -54,27 +54,6 @@
             <div class="row content">
                 <div class="col-sm-1 menu">
                     <div class="list-group">
-
-
-
-
-
-<!--
-href="traducciones.php" tar
-href="autores.php" target="
-href="inicio.php" target="m
-href="Observatorio.php" tar
-href="Anuarios.php" target=
-href="editorial.php" target
-href="pdf/Tratados.pdf" tar
-href="pdf/convocatoria.pdf"
-href="pdf/normas.pdf" targe
--->
-
-
-
-
-
                         <a href="#" class="list-group-item list-group-item-action" id="home">INICIO</a>
                         <a href="#" class="list-group-item list-group-item-action" id="editorial">EDITORIAL</a>
                         <a href="#" class="list-group-item list-group-item-action" id="observatory">OBSERVATORIO</a>
@@ -89,7 +68,7 @@ href="pdf/normas.pdf" targe
                         <a href="pdf/convocatoria.pdf" target="_blank" class="list-group-item list-group-item-action">CONVOCATORIA</a>
                         <a href="#" class="list-group-item list-group-item-action">CONTÁCTENOS</a>
                         <a href="#" class="list-group-item list-group-item-action cope">COPE</a>
-                    </div> 
+                    </div>
                 </div>
 
                 <div class="col-sm-11" id="content-variable">
@@ -109,4 +88,3 @@ href="pdf/normas.pdf" targe
         <script src="js/main.js"></script>
     </body>
 </html>
-

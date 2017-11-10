@@ -5,7 +5,7 @@
 
 .container-fluid {
     padding: .8em 0;
-    font-size: .9em;
+    font-size: .7em;
 }
 
 .menu {
@@ -101,7 +101,7 @@ ul {
 
 .map-obs table td ul li {
     list-style-type: square;
-    font-size: 6em; 
+    font-size: 6em;
 }
 
 .united-nations-color {
@@ -114,4 +114,25 @@ ul {
 
 .international-rights {
     color: #F7B300;
+}
+
+.colombian-state {
+    color: #8D0D2C;
+}
+
+.international-courts {
+    color: #E97B10;
+}
+
+.invest {
+    color: #E24E1B;
+}
+
+.international-right {
+    color: #DB0423;
+}
+
+.caratula-anuarie {
+    vertical-align: middle !important;
+    text-align: center;
 }
