@@ -1,0 +1,228 @@
+.tit {
+	font-family: "Century Gothic";
+	font-weight: bold;
+	text-align: center;
+	color: #333;
+	background-color: #CCC;
+	font-size: 16px;
+}
+.tit1 {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+	text-align: left;
+}
+.normal {
+	font-family: "Century Gothic";
+	font-size: 12px;
+	font-weight: normal;
+	color: #00F;
+}
+.tit11 {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #CCC;
+	vertical-align: top;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin: .4em;
+    font-weight: 700;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #660000;
+    border-color: #660000;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.form-inline {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
+[role="button"], a, area, button, input:not([type="range"]), label, select, summary, textarea {
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+
+.form-inline .input-group {
+    width: auto;
+}
+
+.input-group {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100%;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+	font-size: .6em;
+}
+table {
+    border-collapse: collapse;
+}
+.anuarios {
+    text-align: center;
+}
+.borderless td, .borderless th {
+    text-align: left;
+    border: none;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+.table-sm td, .table-sm th {
+    padding: .3rem;
+}
+.font-weight-bold {
+    font-size: 1.5em;
+}
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+.arrow {
+    font-size: 10em;
+}
+
+.rotate-90 {
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    background-color: #660000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.font-weight-bold {
+    font-size: 1.5em;
+}
+
+.map-obs table td ul li {
+    list-style-type: square;
+    font-size: 6em;
+}
+
+.united-nations-color {
+    color: #EBFF00;
+}
+
+.regional-organizations{
+    color: #F7DC00;
+}
+
+.international-rights {
+    color: #F7B300;
+}
+
+.colombian-state {
+    color: #8D0D2C;
+}
+
+.international-courts {
+    color: #E97B10;
+}
+
+.invest {
+    color: #E24E1B;
+}
+
+.international-right {
+    color: #DB0423;
+}
+.map-obs img {
+    width: 100%;
+}

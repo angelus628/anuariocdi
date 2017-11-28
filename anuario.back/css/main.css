@@ -1,0 +1,33 @@
+body {
+	padding-top: 18px;
+	padding-left: 5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+}
+
+.btn-anuario {
+    background-color: #660000;
+}
+
+.thead-grey, .thead-grey th, .results th {
+	background-color: #CCCCCC;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	font-size: 16px;
+}
+
+.results {
+	width: 1001px !important;
+}
+
+.btn-anuario, .btn-anuario:hover {
+	background-color: #660000;
+	color: #ffffff;
+}
+
+.graph-observ {
+	display: block;
+}
